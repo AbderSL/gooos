@@ -13,33 +13,33 @@
     
     "content": {
         "page1": {
-          "title": "Team and Connection",
-          "url": "https://aquila08.github.io/FreeFire/Menu1.htm",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page2": {
-          "title": "Headphones and Sound",
-          "url": "https://aquila08.github.io/FreeFire/Menu2.htm",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page3": {
-          "title": "Landing",
-          "url": "https://aquila08.github.io/FreeFire/Menu3.htm",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page4": {
-          "title": "Equip yourself",
-          "url": "https://aquila08.github.io/FreeFire/Menu4.htm",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page5": {
-          "title": "Diamonds",
-          "url": "https://aquila08.github.io/FreeFire/Menu5.htm",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page6": {
-          "title": "Settings",
-          "url": "https://aquila08.github.io/FreeFire/Menu6.htm",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page7": {
@@ -53,13 +53,13 @@
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page9": {
-          "title": "Weapons",
-          "url": "https://aquila08.github.io/FreeFire/Menu+9.htm",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
 	    },
         "page9": {
-          "title": "Good Luck!",
-          "url": "https://aquila08.github.io/FreeFire/Menu10.html",
+          "title": "",
+          "url": "",
           "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
         }
       }
