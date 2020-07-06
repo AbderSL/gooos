@@ -14,22 +14,22 @@
     "content": {
         "page1": {
           "title": "The Garden",
-          "url": "https://abdersl.github.io/gooos/1.html",
+          "url": "https://abdersl.github.io/gooos/1.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page2": {
           "title": "The Back Gardens",
-          "url": "https://abdersl.github.io/gooos/2.html",
+          "url": "https://abdersl.github.io/gooos/2.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page3": {
           "title": "The High Street",
-          "url": "https://abdersl.github.io/gooos/3.html",
+          "url": "https://abdersl.github.io/gooos/3.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page4": {
           "title": "The Model Village",
-          "url": "https://abdersl.github.io/gooos/4.html",
+          "url": "https://abdersl.github.io/gooos/4.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page5": {
@@ -39,13 +39,13 @@
         },
         "page6": {
           "title": "To-Do",
-          "url": "https://abdersl.github.io/gooos/6.html",
+          "url": "https://abdersl.github.io/gooos/6.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
   
         "page7": {
           "title": "Good Luck!",
-          "url": "https://abdersl.github.io/gooos/Good.html",
+          "url": "https://abdersl.github.io/gooos/Good.htm",
           "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
 
         }
