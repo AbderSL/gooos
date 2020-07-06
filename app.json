@@ -1,0 +1,55 @@
+{
+    "app": {
+        "name": "Untitled Goose Guide",
+        "color": "#008577"
+    },
+    
+    
+    "ads":{
+        "bannerId": "ca-app-pub-1636943929816716/8061386561",
+        "interstitialId": "ca-app-pub-1636943929816716/3519506324"
+    },
+    
+    
+    "content": {
+        "page1": {
+          "title": "The Garden",
+          "url": "https://abdersl.github.io/gooos/1.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page2": {
+          "title": "The Back Gardens",
+          "url": "https://abdersl.github.io/gooos/2.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page3": {
+          "title": "The High Street",
+          "url": "https://abdersl.github.io/gooos/3.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page4": {
+          "title": "The Model Village",
+          "url": "https://abdersl.github.io/gooos/4.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page5": {
+          "title": "The Pub",
+          "url": "https://abdersl.github.io/gooos/5.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page6": {
+          "title": "To-Do",
+          "url": "https://abdersl.github.io/gooos/6.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+  
+        "page7": {
+          "title": "Good Luck!",
+          "url": "https://abdersl.github.io/gooos/Good.html",
+          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+
+        }
+
+        }
+      }
+}
